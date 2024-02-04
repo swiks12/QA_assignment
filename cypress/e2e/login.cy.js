@@ -3,17 +3,19 @@ describe('template spec', () => {
   const credentials=[
     {
        username: 'standard_user',
-     password: 'secret_sauce' 
+      password: 'secret_sauce' 
     },
     { 
       username: 'standard_user',
-     password: 'swikriti' 
+      password: 'swikriti' 
     },
     {
-      username:'swikriti',password:'secret_sauce'
+      username:'swikriti',
+      password:'secret_sauce'
     },
     {
-      username:'swikriti',password:'swikriti'
+      username:'swikriti',
+      password:'swikriti'
     },
   ];
 
