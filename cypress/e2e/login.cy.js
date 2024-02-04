@@ -11,7 +11,7 @@ describe('template spec', () => {
     },
     {
       username:'swikriti',
-      password:'secret_sauce'
+      password:'secret_sauce',
     },
     {
       username:'swikriti',
